@@ -1,0 +1,19 @@
+{
+  "name": "js-image-classification",
+  "version": "1.0.0",
+  "description": "ml5.js + plain JavaScript",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cv47522/js-image-classification.git"
+  },
+  "author": "Wan-Ting Hsieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cv47522/js-image-classification/issues"
+  },
+  "homepage": "https://github.com/cv47522/js-image-classification#readme"
+}
